@@ -1,3 +1,3 @@
 # me
 me
-![Snake animation](https://github.com/gengebrethRT/gengebrethRT/blob/output/github-contribution-grid-snake.svg)
+[![Gunnard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gengebrethRT)](https://github.com/gengebrethRT/github-readme-stats)
